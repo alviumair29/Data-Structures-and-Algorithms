@@ -1,9 +1,6 @@
 /**********************************************************
- * EECS2101A: Fundamentals of Data Structures,  Fall 2023 
- * Assignment 1, Problem 1: ArraySqueeze.java
- * Student Name: Umairuddin Alvi
- * Student EECS account: alviu02
- * Student ID number:  218137927
+Implement the squeeze() method in the ArraySqueeze class so that it performs as
+indicated in the comment. The main() method in this class runs some test cases on squeeze().
  **********************************************************/
 
 package A1;
