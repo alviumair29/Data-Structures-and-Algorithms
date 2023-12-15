@@ -1,10 +1,7 @@
 /**********************************************************
- * EECS2101A: Fundamentals of Data Structures,  Fall 2023
- * Assignment 1, Problem 2: ArrayLongestPlateau.java
- * Student Name:   Umairuddin Alvi
- * Student EECS account:  alviu02
- * Student ID number:  218137927
- **********************************************************/
+This Java program defines a class named ArrayLongestPlateau with a method longestPlateau that finds the longest plateau in an array of integers.
+A plateau is a sequence of consecutive equal elements.
+**********************************************************/
 
 package A1;
 
